@@ -1,0 +1,1 @@
+A python library to handle objects in the 2D and 3D spaces.
